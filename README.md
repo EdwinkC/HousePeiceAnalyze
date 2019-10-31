@@ -10,6 +10,6 @@
 
 #### GUI PyQt5
 
-![](https://github.com/EdwinkC/HousePriceAnalyze-master/img/1.png)
+![](https://github.com/EdwinkC/HousePeiceAnalyze/blob/master/img/1.png)
 
-![](https://github.com/EdwinkC/HousePriceAnalyze-master/img/2.png)
+![](https://github.com/EdwinkC/HousePeiceAnalyze/blob/master/img/2.png)
